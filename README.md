@@ -6,7 +6,7 @@ Author:
 Filipe Leitão (contact@fleitao.org)
 
 # Description:
-This is an SMS subscription service for Chuck Norris jokes. Essentially is an SMS front-end for https://api.chucknorris.io/.
+This is an SMS subscription service for Chuck Norris jokes. Essentially it's an SMS front-end for https://api.chucknorris.io/.
 Chuck Norris fans can subscribe/manage the service through SMS or simply get an instant joke.
 
 # Usage:
