@@ -26,7 +26,7 @@ If you try some unknown instruction you'll get:
 Chuck Norris facts, 'chuck-out' to unsubscribe to the daily facts, or 'chuck-now' to get an immediate Chuck Norris fact."
 
 # Service Architecture:
-The service is split into three components: 
+The service is split into four components: 
 - ChuckNorris-SMS.zip / Restcomm Visual Designer (RVD) application for the SMS front-end and SMS menus interaction;
 - chucknorris.js / Node.JS middleware between Restcomm and the subscribing list;
 - chucknorris.json / JSON file that serves as subscriber list to the service; 
